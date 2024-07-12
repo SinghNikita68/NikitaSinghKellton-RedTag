@@ -189,10 +189,8 @@ const styles = StyleSheet.create({
     padding: 6,
   },
   addToCartImage: {
-    flex: 1,
-    height: 18,
-    width: 18,
-    borderRadius: 10,
+    height: 16,
+    width: 16,
   },
 
   // Product Header Styles
